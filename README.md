@@ -1,5 +1,10 @@
 # Team Project
-# Data Analytics Project
+### Team Members
+
+|**Name**|**Role**|
+|-|-|
+|**Keren**|**Data Analyst — Master Table Profiling**|
+
 
 ## Project Overview
 
@@ -27,15 +32,9 @@ project-root/
 │   └── 01 data profiling.ipynb
 │
 └── warehouse.duckdb
-### Team Members
-
-|**Name**|**Role**|
-|-|-|
-|**Keren**|**Data Analyst — Master Table Profiling**|
 
 
 
 
 
-&#x09;
 
