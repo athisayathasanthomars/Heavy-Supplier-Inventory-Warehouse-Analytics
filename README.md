@@ -3,7 +3,9 @@
 
 |**Name**|**Role**|
 |-|-|
-|**Keren**|**Data Analyst — Master Table Profiling**|
+|**Keren**|**Data Analyst**|
+|**Timothy**|**Data Analyst**|
+|**Thomars**|**Data Scientist**|
 
 
 ## Project Overview
