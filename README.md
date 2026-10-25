@@ -5,7 +5,7 @@
 |-|-|
 |**Keren**|**Data Analyst**|
 |**Timothy**|**Data Analyst**|
-|**Thomaras**|**Data Scientist**|
+|**Thomars**|**Data Scientist**|
 
 
 ## Project Overview
